@@ -1,10 +1,6 @@
 # 基于SSH的商城管理系统
 
-## 获取方式
 
-扫描下方，回复关键词  ：**商城8** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -69,11 +65,4 @@
 
 ![管理员-订单发货](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141742531.jpg)
 
-## 5、获取方式
-
-扫描下方，回复关键词  ： **商城8**，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
